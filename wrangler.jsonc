@@ -9,6 +9,6 @@
   "workers_dev": false,
   "preview_urls": false,
   "routes": [
-    { "pattern": "docs.nathandare.com/*", "zone_name": "nathandare.com" }
+    { "pattern": "nathandare.com/*", "zone_name": "nathandare.com" }
   ]
 }
