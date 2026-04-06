@@ -69,10 +69,10 @@ Home = "index.md"
 [[project.nav]]
 
 Docs = [
+  { "Intel QAT with HAProxy" = "docs/intel-qat-haproxy.md" },
   { "Get started" = "docs/get-started.md" },
   { "Markdown in 5min" = "docs/markdown.md" },
 ]
-
 
 [[project.extra.social]]
 
@@ -86,3 +86,8 @@ name = "nathan-dare on LinkedIn"
 icon = "fontawesome/brands/github"
 link = "https://github.com/NathanDare"
 name = "NathanDare on GitHub"
+
+
+[project.extra.analytics]
+provider = "google"
+property = "G-13PMN87X8Y"
